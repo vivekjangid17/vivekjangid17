@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vivekjangid17
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python and it's Libraries
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -: vj833930@gmail.com 
 
 <!---
