@@ -17,8 +17,7 @@
 - 📚 Completed courses on Python, Data Science, and AI Tools  
 - 💬 Ask me about Python, DBMS, AI/ML, or anything tech-related  
 - 🌐 I love sharing what I learn on GitHub
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekjangid17&label=Profile%20views&color=0e75b6&style=flat" alt="vivekjangid17"/> </p>
-
+  
 ---
 
 ### 🚀 Technologies & Tools
@@ -32,6 +31,10 @@
 
 ### 📈 GitHub Stats
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vivekjangid17&label=Profile%20views&color=0e75b6&style=flat" alt="vivekjangid17"/> 
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivekjangid17&show_icons=true&theme=radical" alt="Vivek's GitHub stats" />
 </p>
@@ -39,7 +42,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekjangid17&theme=radical" alt="Vivek's GitHub streak" />
 </p>
----
 
 ### 🌱 Current Focus
 
