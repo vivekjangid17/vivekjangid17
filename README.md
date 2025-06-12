@@ -17,6 +17,7 @@
 - 📚 Completed courses on Python, Data Science, and AI Tools  
 - 💬 Ask me about Python, DBMS, AI/ML, or anything tech-related  
 - 🌐 I love sharing what I learn on GitHub
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekjangid17&label=Profile%20views&color=0e75b6&style=flat" alt="vivekjangid17"/> </p>
 
 ---
 
@@ -38,7 +39,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekjangid17&theme=radical" alt="Vivek's GitHub streak" />
 </p>
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekjangid17&label=Profile%20views&color=0e75b6&style=flat" alt="vivekjangid17"/> </p>
 ---
 
 ### 🌱 Current Focus
@@ -52,7 +52,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: vj833930@gmail.com   
-- 💼 LinkedIn: (https://www.linkedin.com/in/vivek-jangid-249746251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- 💼 LinkedIn: https://www.linkedin.com/in/vivek-jangid-249746251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 ---
 
