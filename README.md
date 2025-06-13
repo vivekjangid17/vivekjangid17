@@ -31,7 +31,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vivekjangid17&label=Profile%20views&color=0e75b6&style=flat" alt="vivekjangid17"/> 
 </p>
 
@@ -42,6 +42,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekjangid17&theme=radical" alt="Vivek's GitHub streak" />
 </p>
+
+---
 
 ### 🌱 Current Focus
 
