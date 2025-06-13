@@ -45,14 +45,6 @@
 
 ---
 
-### 🌱 Current Focus
-
-- 📘 Preparing for **GATE** exam  
-- 🧠 Improving my Data Structures and Algorithms (DSA) skills  
-- 📂 Creating meaningful open-source contributions
-
----
-
 ### 📫 Connect with Me
 
 - 📧 Email: vj833930@gmail.com   
@@ -63,8 +55,7 @@
 ### 🎯 Goals for 2025
 
 - 🎓 Crack GATE with a top rank  
-- 🧠 Build a strong AI/ML foundation  
-- 🤝 Collaborate on open-source projects
+- 🧠 Build a strong AI/ML foundation
 
 ---
 
