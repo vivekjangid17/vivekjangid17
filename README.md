@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekjangid17&theme=radical" alt="Vivek's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=vivekjangid17&theme=radical" alt="Vivek's GitHub streak" />
 </p>
 
 ---
