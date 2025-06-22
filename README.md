@@ -25,7 +25,7 @@
 ### 🚀 Technologies & Tools
 
 - 💻 Languages: Python, C++, Java, SQL  
-- 🔧 Tools & Frameworks: Jupyter, Pandas, NumPy,    
+- 🔧 Tools & Frameworks: Jupyter, Pandas, NumPy,  
 - ☁️ Version Control & Deployment: Git, GitHub  
 - 📁 IDEs: VS Code, Jupyter Notebook
 
