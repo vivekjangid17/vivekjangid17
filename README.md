@@ -22,6 +22,14 @@
   
 ---
 
+### 👨‍🎓 Education
+
+**B.Tech in Artificial Intelligence and Machine Learning**  
+Modern Institute of Technology and Research Centre, Alwar  
+(2022 – 2026)
+
+---
+
 ### 🚀 Technologies & Tools
 
 - 💻 Languages: Python, C++, Java, SQL  
