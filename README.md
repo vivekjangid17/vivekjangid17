@@ -33,8 +33,8 @@ Modern Institute of Technology and Research Centre, Alwar
 ### 🚀 Technologies & Tools
 
 - 💻 Languages: Python, C++, Java, SQL  
-- 🔧 Tools & Frameworks: Jupyter, Pandas, NumPy,  
-- ☁️ Version Control & Deployment: Git, GitHub  
+- 🔧 Tools & Frameworks: Jupyter, Pandas, NumPy, TensorFlow 
+- ☁️ Version Control & Deployment: Git & GitHub  
 - 📁 IDEs: VS Code, Jupyter Notebook
 
 ---
@@ -58,14 +58,8 @@ Modern Institute of Technology and Research Centre, Alwar
 ### 📫 Connect with Me
 
 - 📧 Email: vj833930@gmail.com   
-- 💼 LinkedIn: https://www.linkedin.com/in/vivek-jangid-249746251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-
----
-
-### 🎯 Goals for 2025
-
-- 🎓 Crack GATE with a top rank  
-- 🧠 Build a strong AI/ML foundation
+- 💼 LinkedIn: [Vivek Jangid](https://www.linkedin.com/in/vivek-jangid-249746251)  
+- 📸 Instagram: [@vivekjangid_17](https://www.instagram.com/vivekjangid_17)
 
 ---
 
