@@ -6,7 +6,7 @@
 <h3 align="center">An Aspiring AI/ML Engineer | Data Science Enthusiast | Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1F75FE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;AI+%7C+ML+%7C+Data+Science+Lover;Always+Learning+and+Building+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1F75FE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;AI+%7C+ML+%7C+Data+Science;Always+Learning+and+Building+Projects" alt="Typing SVG" />
 </p>
 
 ---
