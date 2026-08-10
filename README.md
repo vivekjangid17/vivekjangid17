@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a 4th-year **AI & ML Engineering** student @ MITRC Alwar
+- 🎓 **AI & ML Engineering** student @ MITRC Alwar
 - 🌱 Currently learning **Machine Learning**, **Python**, and **Data Science**  
 - 💡 Passionate about solving real-world problems using **AI**  
 - 📚 Completed courses on Python, Data Science, and AI Tools  
